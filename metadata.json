@@ -1,0 +1,7 @@
+{
+  "name": "SonicCanvas AI",
+  "description": "An advanced audio visualizer that uses Gemini AI to analyze audio mood and generate stunning, dynamic synesthetic visualizations with multiple layout options and export capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
